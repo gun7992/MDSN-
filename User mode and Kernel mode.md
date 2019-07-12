@@ -1,6 +1,6 @@
 User mode and kernel mode
 
-[링크](https://docs.microsoft.com/ko-kr/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode)
+[원본 링크](https://docs.microsoft.com/ko-kr/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode)
 
 ```
 Windows를 실행하고 있는 컴퓨터의 프로세서는 커널모드와 유저모드라는 두 가지의 서로 다른 모드를 가진다.
