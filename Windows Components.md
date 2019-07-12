@@ -1,6 +1,6 @@
 Windows Components
 
-[링크](https://docs.microsoft.com/ko-kr/windows-hardware/drivers/kernel/overview-of-windows-components)
+[원본 링크](https://docs.microsoft.com/ko-kr/windows-hardware/drivers/kernel/overview-of-windows-components)
 
 ![picture](https://docs.microsoft.com/ko-kr/windows-hardware/drivers/kernel/images/ntarch.png)
 
